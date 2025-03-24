@@ -1,6 +1,6 @@
 {
-  "name": "Roaring's Rebalance Rat",
-  "description": "This is the Rat, adapted to the 2022 rebalance AI tournament setting.",
+  "name": "Roaring's Rebalance Snake",
+  "description": "This is the Snake, adapted to the 2022 rebalance AI tournament setting.",
   "author": "Roaring Goose",
   "link": "https://github.com/RoaringGoose/Vanilla-AI-rebalance",
   "version": "1.0.0",
