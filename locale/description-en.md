@@ -1,0 +1,1 @@
+This is a remake of some Vanilla AIs for the setting of the 2022 rebalance AI tournament.
