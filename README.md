@@ -11,3 +11,14 @@ I also used their ideas for my castle designs:
 
 - the Snake's Castle 1 was inspired by Krari's snake
 - the Caliph's Castle 8 is a copy of Pilaw's castle, adapted to this rebalance setting
+
+Currently, the following AIs are included:
+
+- Rat
+- Snake
+- Pig
+- Wolf
+- Saladin
+- Caliph
+- Sultan
+- Richard
