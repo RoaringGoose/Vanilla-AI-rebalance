@@ -1,0 +1,19 @@
+{
+  "name": "Roaring's Rebalance Richard",
+  "description": "This is Richard Lionheart, adapted to the 2022 rebalance AI tournament setting.",
+  "author": "Roaring Goose",
+  "link": "https://github.com/RoaringGoose/Vanilla-AI-rebalance",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}
