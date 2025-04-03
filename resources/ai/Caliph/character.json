@@ -7,16 +7,20 @@
   },
   "startTroops": {
     "normal": {
-      "Units": [ "ArabSwordsman", "ArabArcher", "FireThrower"],
-      "Counts": [ 1, 2, 1]
+      "ArabArcher": 2,
+      "FireThrower": 1,
+      "ArabSwordsman": 1
     },
     "crusader": {
-      "Units": [ "ArabSwordsman", "ArabArcher", "Slinger", "FireThrower"],
-      "Counts": [ 25, 30, 20, 5]
+      "ArabArcher": 30,
+      "FireThrower": 5,
+      "Slinger": 20,
+      "ArabSwordsman": 25
     },
     "deathmatch": {
-      "Units": [ "ArabSwordsman", "ArabArcher", "FireThrower"],
-      "Counts": [ 1, 2, 1]
+      "ArabArcher": 2,
+      "FireThrower": 1,
+      "ArabSwordsman": 1
     }
   },
   "aic": {

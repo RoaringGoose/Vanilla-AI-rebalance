@@ -7,16 +7,16 @@
   },
   "startTroops": {
     "normal": {
-      "Units": [ "EuropArcher", "Spearman" ],
-      "Counts": [ 4, 2 ]
+      "EuropArcher": 4,
+      "Spearman": 2
     },
     "crusader": {
-      "Units": [ "Spearman", "EuropArcher" ],
-      "Counts": [ 40, 40 ]
+      "EuropArcher": 40,
+      "Spearman": 40
     },
     "deathmatch": {
-      "Units": [ "EuropArcher", "Spearman" ],
-      "Counts": [ 4, 2 ]
+      "EuropArcher": 4,
+      "Spearman": 2
     }
   },
   "aic": {

@@ -7,16 +7,16 @@
   },
   "startTroops": {
     "normal": {
-      "Units": [ "ArabSwordsman", "ArabArcher" ],
-      "Counts": [ 2, 2]
+      "ArabArcher": 2,
+      "ArabSwordsman": 2
     },
     "crusader": {
-      "Units": [ "ArabSwordsman", "ArabArcher" ],
-      "Counts": [ 40, 40 ]
+      "ArabArcher": 40,
+      "ArabSwordsman": 40
     },
     "deathmatch": {
-      "Units": [ "ArabSwordsman", "ArabArcher" ],
-      "Counts": [ 2, 2]
+      "ArabArcher": 2,
+      "ArabSwordsman": 2
     }
   },
   "aic": {

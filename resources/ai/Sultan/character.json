@@ -7,16 +7,17 @@
   },
   "startTroops": {
     "normal": {
-      "Units": [ "ArabArcher", "ArabSwordsman" ],
-      "Counts": [ 4 , 1]
+      "ArabArcher": 4,
+      "ArabSwordsman": 1
     },
     "crusader": {
-      "Units": [ "Slinger", "ArabArcher", "ArabSwordsman" ],
-      "Counts": [ 40, 20, 20 ]
+      "ArabArcher": 20,
+      "Slinger": 40,
+      "ArabSwordsman": 20
     },
     "deathmatch": {
-      "Units": [ "ArabArcher", "ArabSwordsman" ],
-      "Counts": [ 4 , 1]
+      "ArabArcher": 4,
+      "ArabSwordsman": 1
     }
   },
   "aic": {
@@ -43,33 +44,33 @@
     "PopulationPerFarm": 1,
     "PopulationPerWoodcutter": 1,
     "PopulationPerQuarry": 7,
-    "PopulationPerIronmine": 15,
+    "PopulationPerIronmine": 8,
     "PopulationPerPitchrig": 300,
     "MaxQuarries": 1,
-    "MaxIronmines": 2,
+    "MaxIronmines": 4,
     "MaxWoodcutters": 5,
     "MaxPitchrigs": 0,
     "MaxFarms": 9,
     "BuildInterval": 3,
     "ResourceRebuildDelay": 6,
-    "MaxFood": 30,
+    "MaxFood": 120,
     "MinimumApples": 3,
     "MinimumCheese": 0,
     "MinimumBread": 0,
     "MinimumWheat": -1,
     "MinimumHop": -1,
     "TradeAmountFood": 1,
-    "TradeAmountEquipment": 5,
+    "TradeAmountEquipment": 3,
     "AIRequestDelay": 0,
     "MinimumGoodsRequiredAfterTrade": 0,
-    "DoubleRationsFoodThreshold": 200,
-    "MaxWood": 98,
-    "MaxStone": 20,
+    "DoubleRationsFoodThreshold": 80,
+    "MaxWood": 218,
+    "MaxStone": 30,
     "MaxResourceOther": 3,
     "MaxEquipment": 5,
     "MaxBeer": 0,
     "MaxResourceVariance": 2,
-    "RecruitGoldThreshold": 90,
+    "RecruitGoldThreshold": 100,
     "BlacksmithSetting": "Swords",
     "FletcherSetting": "Bows",
     "PoleturnerSetting": "Pikes",
@@ -125,9 +126,9 @@
     "DefUnit6": "None",
     "DefUnit7": "None",
     "DefUnit8": "None",
-    "RaidUnitsBase": 5,
-    "RaidUnitsRandom": 3,
-    "RaidUnit1": "ArabSwordsman",
+    "RaidUnitsBase": 6,
+    "RaidUnitsRandom": 5,
+    "RaidUnit1": "Slave",
     "RaidUnit2": "None",
     "RaidUnit3": "None",
     "RaidUnit4": "None",
@@ -165,7 +166,7 @@
     "Unknown142": 0,
     "AttMaxEngineers": 0,
     "AttDiggingUnit": "Slave",
-    "AttDiggingUnitMax": 50,
+    "AttDiggingUnitMax": 150,
     "AttUnitVanguard": "Slinger",
     "AttUnitVanguardMax": 150,
     "AttMaxAssassins": 0,
@@ -187,7 +188,7 @@
     "AttUnitMain3": "None",
     "AttUnitMain4": "None",
     "AttMaxDefault": 1500,
-    "AttMainGroupsCount": 2,
+    "AttMainGroupsCount": 1,
     "TargetChoice": "Balanced"
   }
 }

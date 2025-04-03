@@ -7,16 +7,18 @@
   },
   "startTroops": {
     "normal": {
-      "Units": [ "Knight", "EuropArcher" ],
-      "Counts": [ 1, 3 ]
+      "EuropArcher": 3,
+      "Knight": 1
     },
     "crusader": {
-      "Units": [ "Swordsman", "Crossbowman", "Pikeman", "EuropArcher" ],
-      "Counts": [ 20, 20, 20, 20 ]
+      "EuropArcher": 20,
+      "Crossbowman": 20,
+      "Swordsman": 20,
+      "Pikeman": 20
     },
     "deathmatch": {
-      "Units": [ "Knight", "EuropArcher" ],
-      "Counts": [ 1, 3 ]
+      "EuropArcher": 3,
+      "Knight": 1
     }
   },
   "aic": {
